@@ -28,11 +28,12 @@ The game features a health bar system and a score counter that tracks your survi
 
 ## Project Structure
 
-SpaceMeteorDefender/
-├── Content/ # Assets: textures, sounds, fonts
-├── Game1.cs # Game loop and main logic
-├── Program.cs # Entry point
-├── SpaceMeteorDefender.csproj
+SpaceMeteorDefender/..
+
+- Content/ # Assets: textures, sounds, fonts
+- Game1.cs # Game loop and main logic
+- Program.cs # Entry point
+- SpaceMeteorDefender.csproj
 
 ## How to Run
 - Clone the repository:
